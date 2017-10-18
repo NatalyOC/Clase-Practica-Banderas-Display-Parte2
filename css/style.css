@@ -1,0 +1,19 @@
+div{
+    height: 100px;
+    width: 250px;
+    margin: 5px;
+}
+
+.yellow{
+    background-color: rgb(245, 189, 6);
+}
+.black{
+    background-color: black;
+}
+
+p{
+    margin-left: 1em;
+}
+.white{
+    color: white;
+}
